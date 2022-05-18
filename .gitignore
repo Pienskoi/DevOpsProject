@@ -14,3 +14,11 @@ build/*
 _site/
 *.css
 !petclinic.css
+*.tfstate*
+*.tfvars
+.terraform/
+.terraform.*
+*.crt
+*.key
+htpasswd
+service-account.json
